@@ -1,3 +1,14 @@
+/* ==UserStyle==
+@name        GitHub Dark
+@namespace   infamoustrey
+@version     1.0.0
+@homepageURL https://github.com/Infamoustrey/laravel-docs-dark-mode
+@updateURL   https://raw.githubusercontent.com/Infamoustrey/laravel-docs-dark-mode/master/laravel-docs-dark.user.css
+@license     MIT
+@author      Trey Foster 
+
+==/UserStyle== */
+
 body {
     color: #eeeeee;
     background: #242424;
