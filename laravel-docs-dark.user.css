@@ -5,7 +5,7 @@
 @homepageURL https://github.com/Infamoustrey/laravel-docs-dark-mode
 @updateURL   https://raw.githubusercontent.com/Infamoustrey/laravel-docs-dark-mode/master/laravel-docs-dark.user.css
 @license     MIT
-@author      Trey Foster 
+@author      Trey Foster
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://laravel.com/docs") {
@@ -173,12 +173,12 @@
     body .token.constant,
     body .token.symbol,
     body .token.deleted {
-        color: #ff79c6;
+        color: #ff5555;
     }
 
     body .token.boolean,
     body .token.number {
-        color: #bd93f9;
+        color: #ffb86c;
     }
 
     body .token.selector,
