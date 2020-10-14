@@ -12,5 +12,5 @@ The default theme is set to be "laravel-ish" but if you'd like another to be ava
 1. Make Sure you have Stylus/Stylish installed 
 
 2. Click below to install, this will allow automatic updates or just open the file and copy and paste it
-- [Laravel Docs Dark User CSS](./laravel-docs-dark.user.css)
+- [Laravel Docs Dark User CSS](https://raw.githubusercontent.com/Infamoustrey/laravel-docs-dark-mode/master/laravel-docs-dark.user.css)
 
